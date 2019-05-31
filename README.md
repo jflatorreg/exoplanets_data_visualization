@@ -1,2 +1,3 @@
-# python-
-Bases de Python 
+# python
+
+Acá se encuentran los totoriales básicos de python.
